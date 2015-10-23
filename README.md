@@ -1,6 +1,5 @@
-# UnnecessaryTech
-Adventures in unnecessary technology
+#Adventures in unnecessary technology!
 
-#Unnecessary Technology!
+###Unnecessary Technology!
 
 Why make your life easier with technology when you can make it significantly more complicated?
